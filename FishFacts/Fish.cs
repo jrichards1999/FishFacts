@@ -31,9 +31,20 @@ namespace FishFacts {
             }
         }
 
+        private string imageLink_;
+        public string ImageLink {
+            get { return imageLink_; }
+            set {
+                imageLink_ = value;
+            }
+        }
+
         public Fish() {
+            string fishName = GetRandomFish();
+            string request = "https://en.wikipedia.org/api/rest_v1/page/summary/" + fishName;
+
             string ResponseText;
-            HttpWebRequest wikiRequest = (HttpWebRequest)WebRequest.Create("https://en.wikipedia.org/api/rest_v1/page/summary/Fish");
+            HttpWebRequest wikiRequest = (HttpWebRequest)WebRequest.Create(request);
             using (HttpWebResponse response = (HttpWebResponse)wikiRequest.GetResponse()) {
                 using (StreamReader reader = new StreamReader(response.GetResponseStream())) {
                     ResponseText = reader.ReadToEnd();
@@ -43,7 +54,18 @@ namespace FishFacts {
             FishName = JObject.Parse(ResponseText)["title"].ToString();
             FishDesc = JObject.Parse(ResponseText)["extract"].ToString();
 
+            var obj = JObject.Parse(ResponseText)["originalimage"];
+            if (obj != null) { 
+                ImageLink = obj.SelectToken("source").ToString();
+            }
 
+        }
+
+        public string GetRandomFish() {
+            Random r = new Random();
+            string[] lines = File.ReadAllLines("fish.txt");
+            string fishName = lines[r.Next(lines.Length)];
+            return fishName;
         }
 
 

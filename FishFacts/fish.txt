@@ -1,206 +1,206 @@
-African glass catfish
-African lungfish
+African_glass_catfish
+African_lungfish
 Aholehole
-Airbreathing catfish
-Airsac catfish
-Alaska blackfish
+Airbreathing_catfish
+Airsac_catfish
+Alaska_blackfish
 Albacore
 Alewife
 Alfonsino
-Algae eater
+Algae_eater
 Alligatorfish
-Alligator gar
+Alligator_gar
 Amberjack
-American sole
-Amur pike
+American_sole
+Amur_pike
 Anchovy
 Anemonefish
 Angelfish
 Angler
-Angler catfish
+Angler_catfish
 Anglerfish
-Antarctic cod
-Antarctic icefish
-Antenna codlet
+Antarctic_cod
+Antarctic_icefish
+Antenna_codlet
 Arapaima
 Archerfish
-Arctic char
-Armored gurnard
-Armored searobin
+Arctic_char
+Armored_gurnard
+Armored_searobin
 Armorhead
-Armorhead catfish
-Armoured catfish
+Armorhead_catfish
+Armoured_catfish
 Arowana
-Arrowtooth eel
-Asian carps
-Asiatic glassfish
-Atka mackerel
-Atlantic bonito
-Atlantic cod
-Atlantic herring
-Atlantic salmon
-Atlantic sharpnose shark
-Atlantic saury
-Atlantic silverside
-Australasian salmon
-Australian grayling
-Australian herring
-Australian lungfish
-Australian prowfish
+Arrowtooth_eel
+Asian_carps
+Asiatic_glassfish
+Atka_mackerel
+Atlantic_bonito
+Atlantic_cod
+Atlantic_herring
+Atlantic_salmon
+Atlantic_sharpnose_shark
+Atlantic_saury
+Atlantic_silverside
+Australasian_salmon
+Australian_grayling
+Australian_herring
+Australian_lungfish
+Australian_prowfish
 Ayu
-Baikal oilfish
-Bala shark
-Ballan wrasse
-Bamboo shark
-Banded killifish
+Baikal_oilfish
+Bala_shark
+Ballan_wrasse
+Bamboo_shark
+Banded_killifish
 Bandfish
 Banjo
 Bangus
-Banjo catfish
+Banjo_catfish
 Barb
 Barbel
-Barbeled dragonfish
-Barbeled houndshark
-Barbel-less catfish
+Barbeled_dragonfish
+Barbeled_houndshark
+Barbel-less_catfish
 Barfish
 Barracuda
 Barracudina
 Barramundi
-Barred danio
+Barred_danio
 Barreleye
-Basking shark
+Basking_shark
 Bass
 Basslet
 Batfish
-Bat ray
+Bat_ray
 Beachsalmon
-Beaked salmon
-Beaked sandfish
+Beaked_salmon
+Beaked_sandfish
 Beardfish
-Beluga sturgeon
-Bengal danio
+Beluga_sturgeon
+Bengal_danio
 Betta
 Bichir
-Bicolor goat fish
+Bicolor_goat_fish
 Bigeye
-Bigeye squaretail
-Bighead carp
-Bigmouth buffalo
+Bigeye_squaretail
+Bighead_carp
+Bigmouth_buffalo
 Bigscale
-Bigscale pomfret
+Bigscale_pomfret
 Billfish
 Bitterling
-Black angelfish
-Black bass
-Black dragonfish
+Black_angelfish
+Black_bass
+Black_dragonfish
 Blackchin
-Blackfin Tuna
+Blackfin_Tuna
 Blackfish
-Black neon tetra
-Blacktip reef shark
-Black mackerel
-Black scalyfin
-Black sea bass
-Black scabbardfish
-Black swallower
-Black tetra
-Black triggerfish
+Black_neon_tetra
+Blacktip_reef_shark
+Black_mackerel
+Black_scalyfin
+Black_sea_bass
+Black_scabbardfish
+Black_swallower
+Black_tetra
+Black_triggerfish
 Bleak
 Blenny
-Blind goby
-Blind shark
+Blind_goby
+Blind_shark
 Blobfish
 Blowfish
-Blue catfish
-Blue danio
-Blue-redstripe danio
-Blue eye trevalla
-Bluefin tuna
+Blue_catfish
+Blue_danio
+Blue-redstripe_danio
+Blue_eye_trevalla
+Bluefin_tuna
 Bluefish
 Bluegill
-Blue gourami
-Blue shark
-Blue triggerfish
-Blue whiting
-Bluntnose knifefish
-Bluntnose minnow
+Blue_gourami
+Blue_shark
+Blue_triggerfish
+Blue_whiting
+Bluntnose_knifefish
+Bluntnose_minnow
 Boafish
 Boarfish
-Bobtail snipe eel
+Bobtail_snipe_eel
 Bocaccio
 Boga
-Bombay duck
+Bombay_duck
 Bonefish
 Bonito
-Bonnethead shark
+Bonnethead_shark
 Bonnetmouth
 Bonytail
-Bronze corydoras
+Bronze_corydoras
 Bonytongue
 Bowfin
 Boxfish
-Bramble shark
+Bramble_shark
 Bream
 Brill
 Bristlemouth
-Bristlenose catfish
-Broadband dogfish
-Brook lamprey
-Brook stickleback
-Brook trout
+Bristlenose_catfish
+Broadband_dogfish
+Brook_lamprey
+Brook_stickleback
+Brook_trout
 Brotula
-Brown trout
-Buffalo fish
+Brown_trout
+Buffalo_fish
 Bullhead
-Bullhead shark
-Bull shark
-Bull trout
+Bullhead_shark
+Bull_shark
+Bull_trout
 Burbot
-Bumblebee goby
+Bumblebee_goby
 Buri
-Burma danio
-Burrowing goby
+Burma_danio
+Burrowing_goby
 Butterfish
-Butterfly ray
+Butterfly_ray
 Butterflyfish
-California flyingfish
-California halibut
-Canary rockfish
+California_flyingfish
+California_halibut
+Canary_rockfish
 Candiru
 Candlefish
 Capelin
 Cardinalfish
-Cardinal tetra
+Cardinal_tetra
 Carp
 Carpetshark
 Carpsucker
 Catalufa
 Catfish
 Catla
-Cat shark
+Cat_shark
 Cavefish
-Celebes rainbowfish
-Central mudminnow
-Chain pickerel
-Channel bass
-Channel catfish
+Celebes_rainbowfish
+Central_mudminnow
+Chain_pickerel
+Channel_bass
+Channel_catfish
 Char
-Cherry salmon
+Cherry_salmon
 Chimaera
-Chinook salmon
+Chinook_salmon
 Cherubfish
 Chub
 Chubsucker
-Chum salmon
+Chum_salmon
 Cichlid
 Cisco
-Climbing catfish
-Climbing gourami
-Climbing perch
+Climbing_catfish
+Climbing_gourami
+Climbing_perch
 Clingfish
 Clownfish
-Clown loach
-Clown triggerfish
+Clown_loach
+Clown_triggerfish
 Cobbler
 Cobia
 Cod
@@ -208,206 +208,206 @@ Codlet
 Codling
 Coelacanth
 Coffinfish
-Coho salmon
+Coho_salmon
 Coley
-Collared carpetshark
-Collared dogfish
-Colorado squawfish
+Collared_carpetshark
+Collared_dogfish
+Colorado_squawfish
 Combfish
-Combtail gourami
-Combtooth blenny
-Common carp
-Common tunny
-Conger eel
-Convict blenny
-Convict cichlid
-Cookie-cutter shark
-Coolie loach
+Combtail_gourami
+Combtooth_blenny
+Common_carp
+Common_tunny
+Conger_eel
+Convict_blenny
+Convict_cichlid
+Cookie-cutter_shark
+Coolie_loach
 Cornetfish
 Cowfish
-Cownose ray
-Cow shark
+Cownose_ray
+Cow_shark
 Crappie
-Creek chub
+Creek_chub
 Crestfish
-Crevice kelpfish
+Crevice_kelpfish
 Croaker
-Crocodile icefish
-Crocodile shark
-Crucian carp
-Cuckoo wrasse
+Crocodile_icefish
+Crocodile_shark
+Crucian_carp
+Cuckoo_wrasse
 Cusk
 Cusk-eel
 Cutlassfish
-Cutthroat eel
-Cutthroat trout
+Cutthroat_eel
+Cutthroat_trout
 Dab
 Dace
-Daggertooth pike conger
+Daggertooth_pike_conger
 Damselfish
 Danio
 Darter
 Dartfish
 Dealfish
-Death Valley pupfish
-Deep sea eel
-Deep sea smelt
-Deepwater cardinalfish
-Deepwater flathead
-Deepwater stingray
-Delta smelt
+Death_Valley_pupfish
+Deep_sea_eel
+Deep_sea_smelt
+Deepwater_cardinalfish
+Deepwater_flathead
+Deepwater_stingray
+Delta_smelt
 Demoiselle
-Denticle herring
-Desert pupfish
+Denticle_herring
+Desert_pupfish
 Devario
-Devil ray
+Devil_ray
 Dhufish
 Discus
 Dogfish
-Dogfish shark
-Dogteeth tetra
-Dojo loach
-Dolly Varden trout
-Dolphin fish
-Dorab wolf-herring
+Dogfish_shark
+Dogteeth_tetra
+Dojo_loach
+Dolly_Varden_trout
+Dolphin_fish
+Dorab_wolf-herring
 Dorado
 Dory
 Dottyback
 Dragonet
 Dragonfish
-Dragon goby
+Dragon_goby
 Driftfish
-Driftwood catfish
+Driftwood_catfish
 Drum
 Duckbill
-Duckbill eel
-Dusky grouper
-Dusky shark
-Dwarf gourami
-Dwarf loach
-Eagle ray
-Earthworm eel
+Duckbill_eel
+Dusky_grouper
+Dusky_shark
+Dwarf_gourami
+Dwarf_loach
+Eagle_ray
+Earthworm_eel
 Eel
-Eel cod
+Eel_cod
 Eel-goby
 Eelpout
-Eeltail catfish
+Eeltail_catfish
 Elasmobranch
-Electric catfish
-Electric eel
-Electric knifefish
-Electric ray
-Elephant fish
-Elephantnose fish
+Electric_catfish
+Electric_eel
+Electric_knifefish
+Electric_ray
+Elephant_fish
+Elephantnose_fish
 Elver
-Ember parrotfish
-Emerald catfish
+Ember_parrotfish
+Emerald_catfish
 Emperor
-Emperor angelfish
-Emperor bream
+Emperor_angelfish
+Emperor_bream
 Escolar
-Eucla cod
+Eucla_cod
 Eulachon
-European chub
-European eel
-European flounder
-European minnow
-European perch
-False brotula
-False cat shark
-False moray
-False trevally
+European_chub
+European_eel
+European_flounder
+European_minnow
+European_perch
+False_brotula
+False_cat_shark
+False_moray
+False_trevally
 Fangtooth
-Fathead sculpin
+Fathead_sculpin
 Featherback
 Fierasfer
-Fire goby
+Fire_goby
 Filefish
-Finback cat shark
+Finback_cat_shark
 Fingerfish
-Fire bar danio
+Fire_bar_danio
 Firefish
-Flabby whale fish
+Flabby_whale_fish
 Flagblenny
 Flagfin
 Flagfish
 Flagtail
-Flashlight fish
+Flashlight_fish
 Flatfish
 Flathead
-Flathead catfish
+Flathead_catfish
 Flier
 Flounder
-Flying gurnard
-Flying fish
+Flying_gurnard
+Flying_fish
 Footballfish
-Forehead brooder
-Four-eyed fish
-French angelfish
-Freshwater eel
-Freshwater hatchetfish
-Freshwater shark
-Frigate mackerel
-Frilled shark
+Forehead_brooder
+Four-eyed_fish
+French_angelfish
+Freshwater_eel
+Freshwater_hatchetfish
+Freshwater_shark
+Frigate_mackerel
+Frilled_shark
 Frogfish
-Frogmouth catfish
-Fusilier fish
-Galjoen fish
-Ganges shark
+Frogmouth_catfish
+Fusilier_fish
+Galjoen_fish
+Ganges_shark
 Gar
-Garden eel
+Garden_eel
 Garibaldi
 Garpike
-Ghost fish
-Ghost flathead
-Ghost knifefish
-Ghost pipefish
-Ghost shark
+Ghost_fish
+Ghost_flathead
+Ghost_knifefish
+Ghost_pipefish
+Ghost_shark
 Ghoul
-Giant danio
-Giant gourami
-Giant sea bass
+Giant_danio
+Giant_gourami
+Giant_sea_bass
 Gibberfish
-Gila trout
-Gizzard shad
-Glass catfish
+Gila_trout
+Gizzard_shad
+Glass_catfish
 Glassfish
-Glass knifefish
-Glowlight danio
+Glass_knifefish
+Glowlight_danio
 Goatfish
-Goblin shark
+Goblin_shark
 Goby
-Golden dojo
-Golden loach
-Golden shiner
-Golden trout
+Golden_dojo
+Golden_loach
+Golden_shiner
+Golden_trout
 Goldeye
 Goldfish
 Gombessa
 Goosefish
-Gopher rockfish
+Gopher_rockfish
 Gourami
-Grass carp
+Grass_carp
 Graveldiver
 Grayling
-Gray mullet
-Gray reef shark
-Great white shark
-Green swordtail
+Gray_mullet
+Gray_reef_shark
+Great_white_shark
+Green_swordtail
 Greeneye
 Greenling
 Grenadier
-Green spotted puffer
-Ground shark
+Green_spotted_puffer
+Ground_shark
 Grouper
 Grunion
 Grunt
 Grunter
-Grunt sculpin
+Grunt_sculpin
 Gudgeon
 Guitarfish
-Gulf menhaden
-Gulper eel
+Gulf_menhaden
+Gulper_eel
 Gulper
 Gunnel
 Guppy
@@ -421,20 +421,20 @@ Halfmoon
 Halibut
 Halosaur
 Hamlet
-Hammerhead shark
+Hammerhead_shark
 Hammerjaw
 Handfish
-Hardhead catfish
-Harelip sucker
+Hardhead_catfish
+Harelip_sucker
 Hatchetfish
 Hawkfish
 Herring
-Herring smelt
-Hickory Shad
-Hillstream loach
-Hog sucker
+Herring_smelt
+Hickory_Shad
+Hillstream_loach
+Hog_sucker
 Hoki
-Horn shark
+Horn_shark
 Horsefish
 Houndshark
 Huchen
@@ -447,485 +447,485 @@ Inanga
 Inconnu
 Jack
 Jackfish
-Jack Dempsey
-Japanese eel
+Jack_Dempsey
+Japanese_eel
 Javelin
 Jawfish
-Jellynose fish
+Jellynose_fish
 Jewelfish
-Jewel tetra
+Jewel_tetra
 Jewfish
-John Dory
-Kafue pike
+John_Dory
+Kafue_pike
 Kahawai
 Kaluga
 Kanyu
-Kelp perch
+Kelp_perch
 Kelpfish
 Killifish
-King of the herrings
+King_of_the_herrings
 Kingfish
 King-of-the-salmon
-Kissing gourami
+Kissing_gourami
 Knifefish
 Knifejaw
 Koi
 Kokanee
 Kokopu
-Kuhli loach
-Labyrinth fish
+Kuhli_loach
+Labyrinth_fish
 Ladyfish
-Lake chub
-Lake trout
-Lake whitefish
+Lake_chub
+Lake_trout
+Lake_whitefish
 Lampfish
 Lamprey
 Lancetfish
 Lanternfish
-Largemouth bass
+Largemouth_bass
 Leaffish
 Leatherjacket
-Lefteye flounder
-Lemon shark
-Lemon sole
-Lemon tetra
+Lefteye_flounder
+Lemon_shark
+Lemon_sole
+Lemon_tetra
 Lenok
-Leopard danio
+Leopard_danio
 Lightfish
 Limia
-Lined sole
+Lined_sole
 Ling
-Ling cod
+Ling_cod
 Lionfish
 Livebearer
 Lizardfish
 Loach
-Loach catfish
-Loach goby
-Loach minnow
+Loach_catfish
+Loach_goby
+Loach_minnow
 Longfin
-Longfin dragonfish
-Longfin escolar
-Longfin smelt
-Long-finned char
-Long-finned pike
-Long-finned sand diver
-Longjaw mudsucker
-Longneck eel
-Longnose chimaera
-Longnose dace
-Longnose lancetfish
-Longnose sucker
-Longnose whiptail catfish
-Long-whiskered catfish
+Longfin_dragonfish
+Longfin_escolar
+Longfin_smelt
+Long-finned_char
+Long-finned_pike
+Long-finned_sand_diver
+Longjaw_mudsucker
+Longneck_eel
+Longnose_chimaera
+Longnose_dace
+Longnose_lancetfish
+Longnose_sucker
+Longnose_whiptail_catfish
+Long-whiskered_catfish
 Loosejaw
-Lost River sucker
+Lost_River_sucker
 Louvar
-Loweye catfish
+Loweye_catfish
 Luderick
-Luminous hake
+Luminous_hake
 Lumpsucker
 Lungfish
 Mackerel
-Mackerel shark
+Mackerel_shark
 Madtom
 Mahi-mahi
 Mahseer
-Mail-cheeked fish
-Mako shark
+Mail-cheeked_fish
+Mako_shark
 Mandarinfish
 Manefish
-Man-of-war fish
-Manta ray
+Man-of-war_fish
+Manta_ray
 Marblefish
-Marine hatchetfish
+Marine_hatchetfish
 Marlin
-Masu salmon
+Masu_salmon
 Medaka
 Medusafish
-Megamouth shark
+Megamouth_shark
 Menhaden
-Merluccid hake
-Mexican golden trout
-Midshipman fish
+Merluccid_hake
+Mexican_golden_trout
+Midshipman_fish
 Milkfish
 Minnow
-Minnow of the deep
-Modoc sucker
+Minnow_of_the_deep
+Modoc_sucker
 Mojarra
-Mola mola
-Monkeyface prickleback
+Mola_mola
+Monkeyface_prickleback
 Monkfish
 Mooneye
 Moonfish
-Moorish idol
+Moorish_idol
 Mora
-Moray eel
-Morid cod
+Moray_eel
+Morid_cod
 Morwong
-Moses sole
+Moses_sole
 Mosquitofish
 Mouthbrooder
-Mozambique tilapia
+Mozambique_tilapia
 Mrigal
-Mud catfish
+Mud_catfish
 Mudfish
 Mudminnow
-Mud minnow
+Mud_minnow
 Mudskipper
 Mudsucker
 Mullet
 Mummichog
-Murray cod
+Murray_cod
 Muskellunge
-Mustache triggerfish
-Mustard eel
-Naked-back knifefish
+Mustache_triggerfish
+Mustard_eel
+Naked-back_knifefish
 Nase
 Needlefish
-Neon tetra
-New World rivuline
-New Zealand sand diver
-New Zealand smelt
-Nibble fish
+Neon_tetra
+New_World_rivuline
+New_Zealand_sand_diver
+New_Zealand_smelt
+Nibble_fish
 Noodlefish
-North American darter
-North American freshwater catfish
-North Pacific daggertooth
-Northern anchovy
-Northern clingfish
-Northern lampfish
-Northern pike
-Northern sea robin
-Northern squawfish
-Northern stargazer
+North_American_darter
+North_American_freshwater_catfish
+North_Pacific_daggertooth
+Northern_anchovy
+Northern_clingfish
+Northern_lampfish
+Northern_pike
+Northern_sea_robin
+Northern_squawfish
+Northern_stargazer
 Notothen
 Nurseryfish
-Nurse shark
+Nurse_shark
 Oarfish
-Ocean perch
-Ocean sunfish
-Oceanic whitetip shark
+Ocean_perch
+Ocean_sunfish
+Oceanic_whitetip_shark
 Oilfish
 Oldwife
-Old World knifefish
-Olive flounder
+Old_World_knifefish
+Olive_flounder
 Opah
 Opaleye
-Orange roughy
-Orangespine unicorn fish
-Orangestriped triggerfish
-Orbicular batfish
-Orbicular velvetfish
-Oregon chub
+Orange_roughy
+Orangespine_unicorn_fish
+Orangestriped_triggerfish
+Orbicular_batfish
+Orbicular_velvetfish
+Oregon_chub
 Orfe
-Oriental loach
+Oriental_loach
 Oscar
-Owens pupfish
-Pacific albacore
-Pacific cod
-Pacific hake
-Pacific herring
-Pacific lamprey
-Pacific salmon
-Pacific saury
-Pacific trout
-Pacific viperfish
+Owens_pupfish
+Pacific_albacore
+Pacific_cod
+Pacific_hake
+Pacific_herring
+Pacific_lamprey
+Pacific_salmon
+Pacific_saury
+Pacific_trout
+Pacific_viperfish
 Paddlefish
-Pancake batfish
+Pancake_batfish
 Panga
-Paradise fish
-Parasitic catfish
+Paradise_fish
+Parasitic_catfish
 Parore
 Parrotfish
-Peacock flounder
+Peacock_flounder
 Peamouth
 Pearleye
 Pearlfish
-Pearl danio
-Pearl perch
-Pelagic cod
-Pelican eel
-Pelican gulper
-Pencil catfish
+Pearl_danio
+Pearl_perch
+Pelagic_cod
+Pelican_eel
+Pelican_gulper
+Pencil_catfish
 Pencilfish
 Pencilsmelt
-Peppered corydoras
+Peppered_corydoras
 Perch
-Peters' elephantnose fish
+Peters'_elephantnose_fish
 Pickerel
 Pigfish
-Pike conger
-Pike eel
+Pike_conger
+Pike_eel
 Pike
 Pikeblenny
 Pikeperch
 Pilchard
-Pilot fish
+Pilot_fish
 Pineapplefish
 Pineconefish
-Pink salmon
+Pink_salmon
 Píntano
 Pipefish
 Piranha
 Pirarucu
-Pirate perch
+Pirate_perch
 Plaice
 Platy
 Platyfish
 Pleco
-Plownose chimaera
+Plownose_chimaera
 Poacher
 Pollyfish
 Pollock
 Pomfret
 Pompano
-Pompano dolphinfish
+Pompano_dolphinfish
 Ponyfish
-Popeye catalufa
-Porbeagle shark
+Popeye_catalufa
+Porbeagle_shark
 Porcupinefish
 Porgy
-Port Jackson shark
+Port_Jackson_shark
 Powen
 Prickleback
 Pricklefish
-Prickly shark
+Prickly_shark
 Prowfish
 Pufferfish
 Pumpkinseed
 Pupfish
-Pygmy sunfish
-Queen danio
-Queen parrotfish
-Queen triggerfish
+Pygmy_sunfish
+Queen_danio
+Queen_parrotfish
+Queen_triggerfish
 Quillback
 Quillfish
 Rabbitfish
-Raccoon butterfly fish
+Raccoon_butterfly_fish
 Ragfish
-Rainbow trout
+Rainbow_trout
 Rainbowfish
 Rasbora
 Ratfish
 Rattail
 Ray
-Razorback sucker
+Razorback_sucker
 Razorfish
-Red grouper
-Red salmon
-Red snapper
-Redfin perch
+Red_grouper
+Red_salmon
+Red_snapper
+Redfin_perch
 Redfish
-Redhorse sucker
-Redlip blenny
-Redmouth whalefish
-Redtooth triggerfish
-Red velvetfish
-Red whalefish
+Redhorse_sucker
+Redlip_blenny
+Redmouth_whalefish
+Redtooth_triggerfish
+Red_velvetfish
+Red_whalefish
 Reedfish
-Reef triggerfish
+Reef_triggerfish
 Remora
-Requiem shark
-Ribbon eel
-Ribbon sawtail fish
+Requiem_shark
+Ribbon_eel
+Ribbon_sawtail_fish
 Ribbonfish
-Rice eel
+Rice_eel
 Ricefish
 Ridgehead
-Riffle dace
-Righteye flounder
-Rio Grande perch
-River loach
-River shark
-River stingray
+Riffle_dace
+Righteye_flounder
+Rio_Grande_perch
+River_loach
+River_shark
+River_stingray
 Rivuline
 Roach
-Roanoke bass
-Rock bass
-Rock beauty
-Rock cod
-Rocket danio
+Roanoke_bass
+Rock_bass
+Rock_beauty
+Rock_cod
+Rocket_danio
 Rockfish
 Rockling
-Rockweed gunnel
+Rockweed_gunnel
 Rohu
 Ronquil
 Roosterfish
 Ropefish
-Rough scad
-Rough sculpin
+Rough_scad
+Rough_sculpin
 Roughy
 Roundhead
-Round herring
-Round stingray
-Round whitefish
+Round_herring
+Round_stingray
+Round_whitefish
 Rudd
 Rudderfish
 Ruffe
-Russian sturgeon
+Russian_sturgeon
 Sábalo
 Sabertooth
-Saber-toothed blenny
-Sabertooth fish
+Saber-toothed_blenny
+Sabertooth_fish
 Sablefish
-Sacramento blackfish
-Sacramento splittail
-Sailfin silverside
+Sacramento_blackfish
+Sacramento_splittail
+Sailfin_silverside
 Sailfish
 Salamanderfish
 Salmon
-Salmon shark
-Sandbar shark
+Salmon_shark
+Sandbar_shark
 Sandburrower
-Sand dab
-Sand diver
-Sand eel
+Sand_dab
+Sand_diver
+Sand_eel
 Sandfish
-Sand goby
-Sand knifefish
-Sand lance
+Sand_goby
+Sand_knifefish
+Sand_lance
 Sandperch
 Sandroller
-Sand stargazer
-Sand tiger
-Sand tilefish
-Sandbar shark
-Sarcastic fringehead
+Sand_stargazer
+Sand_tiger
+Sand_tilefish
+Sandbar_shark
+Sarcastic_fringehead
 Sardine
-Sargassum fish
+Sargassum_fish
 Sauger
 Saury
 Sawfish
-Saw shark
-Sawtooth eel
-Scabbard fish
-Scaly dragonfish
+Saw_shark
+Sawtooth_eel
+Scabbard_fish
+Scaly_dragonfish
 Scat
-Scissortail rasbora
+Scissortail_rasbora
 Scorpionfish
 Sculpin
 Scup
-Sea bass
-Sea bream
-Sea catfish
-Sea chub
-Sea devil
-Sea dragon
-Sea lamprey
-Sea raven
-Sea snail
-Sea toad
+Sea_bass
+Sea_bream
+Sea_catfish
+Sea_chub
+Sea_devil
+Sea_dragon
+Sea_lamprey
+Sea_raven
+Sea_snail
+Sea_toad
 Seahorse
 Seamoth
 Searobin
-Sevan trout
-Sergeant major
+Sevan_trout
+Sergeant_major
 Shad
 Shark
 Sharksucker
-Sharpnose puffer
+Sharpnose_puffer
 Sheatfish
 Sheepshead
-Sheepshead minnow
+Sheepshead_minnow
 Shiner
-Shortnose chimaera
-Shortnose sucker
-Shovelnose sturgeon
+Shortnose_chimaera
+Shortnose_sucker
+Shovelnose_sturgeon
 Shrimpfish
-Siamese fighting fish
+Siamese_fighting_fish
 Sillago
-Silver carp
-Silver dollar
-Silver dory
-Silver hake
+Silver_carp
+Silver_dollar
+Silver_dory
+Silver_hake
 Silverside
-Silvertip tetra
-Sind danio
-Sixgill ray
-Sixgill shark
+Silvertip_tetra
+Sind_danio
+Sixgill_ray
+Sixgill_shark
 Skate
 Skilfish
-Skipjack tuna
-Slender mola
-Slender snipe eel
+Skipjack_tuna
+Slender_mola
+Slender_snipe_eel
 Sleeper
-Sleeper shark
+Sleeper_shark
 Slickhead
 Slimehead
-Slimy mackerel
-Slimy sculpin
+Slimy_mackerel
+Slimy_sculpin
 Slipmouth
-Smalleye squaretail
-Smalltooth sawfish
+Smalleye_squaretail
+Smalltooth_sawfish
 Smelt
 Smelt-whiting
-Smooth dogfish
+Smooth_dogfish
 Snailfish
-Snake eel
+Snake_eel
 Snakehead
-Snake mackerel
+Snake_mackerel
 Snapper
-Snipe eel
+Snipe_eel
 Snipefish
 Snook
-Snubnose eel
-Snubnose parasitic eel
-Sockeye salmon
+Snubnose_eel
+Snubnose_parasitic_eel
+Sockeye_salmon
 Soldierfish
 Sole
-South American darter
-South American lungfish
-Southern Dolly Varden
-Southern flounder
-Southern hake
-Southern sandfish
-Southern smelt
+South_American_darter
+South_American_lungfish
+Southern_Dolly_Varden
+Southern_flounder
+Southern_hake
+Southern_sandfish
+Southern_smelt
 Spadefish
-Spaghetti eel
-Spanish mackerel
+Spaghetti_eel
+Spanish_mackerel
 Spearfish
-Speckled trout
+Speckled_trout
 Spiderfish
 Spikefish
 Spinefoot
-Spiny basslet
-Spiny dogfish
-Spiny dwarf catfish
-Spiny eel
+Spiny_basslet
+Spiny_dogfish
+Spiny_dwarf_catfish
+Spiny_eel
 Spinyfin
 Splitfin
 Spookfish
-Spotted climbing perch
-Spotted danio
-Spottail pinfish
+Spotted_climbing_perch
+Spotted_danio
+Spottail_pinfish
 Sprat
 Springfish
-Squarehead catfish
+Squarehead_catfish
 Squaretail
 Squawfish
 Squeaker
 Squirrelfish
-Staghorn sculpin
+Staghorn_sculpin
 Stargazer
-Starry flounder
+Starry_flounder
 Steelhead
 Stickleback
 Stingfish
 Stingray
 Stonecat
 Stonefish
-Stoneroller minnow
-Stream catfish
-Striped bass
-Striped burrfish
+Stoneroller_minnow
+Stream_catfish
+Striped_bass
+Striped_burrfish
 Sturgeon
 Sucker
-Suckermouth armored catfish
-Summer flounder
-Sundaland noodlefish
+Suckermouth_armored_catfish
+Summer_flounder
+Sundaland_noodlefish
 Sunfish
-Surf sardine
+Surf_sardine
 Surfperch
 Surgeonfish
 Swallower
@@ -934,8 +934,8 @@ Swampfish
 Sweeper
 Swordfish
 Swordtail
-Tadpole cod
-Tadpole fish
+Tadpole_cod
+Tadpole_fish
 Tailor
 Taimen
 Tang
@@ -943,49 +943,49 @@ Tapetail
 Tarpon
 Tarwhine
 Telescopefish
-Temperate bass
-Temperate ocean-bass
-Temperate perch
+Temperate_bass
+Temperate_ocean-bass
+Temperate_perch
 Tench
 Tenpounder
 Tenuis
 Tetra
-Thorny catfish
+Thorny_catfish
 Thornfish
 Threadfin
-Threadfin bream
+Threadfin_bream
 Thread-tail
-Three spot gourami
-Threespine stickleback
-Three-toothed puffer
-Thresher shark
-Tidewater goby
-Tiger barb
+Three_spot_gourami
+Threespine_stickleback
+Three-toothed_puffer
+Thresher_shark
+Tidewater_goby
+Tiger_barb
 Tigerperch
-Tiger shark
-Tiger shovelnose catfish
+Tiger_shark
+Tiger_shovelnose_catfish
 Tilapia
 Tilefish
-Titan triggerfish
+Titan_triggerfish
 Toadfish
-Tommy ruff
-Tompot blenny
+Tommy_ruff
+Tompot_blenny
 Tonguefish
 Tope
 Topminnow
 Torpedo
-Torrent catfish
-Torrent fish
+Torrent_catfish
+Torrent_fish
 Trahira
 Treefish
 Trevally
 Triggerfish
-Triplefin blenny
+Triplefin_blenny
 Triplespine
 Tripletail
-Tripod fish
+Tripod_fish
 Trout
-Trout cod
+Trout_cod
 Trout-perch
 Trumpeter
 Trumpetfish
@@ -994,95 +994,95 @@ Tubeblenny
 Tube-eye
 Tube-snout
 Tubeshoulder
-Tui chub
+Tui_chub
 Tuna
 Turbot
-Two spotted goby
+Two_spotted_goby
 Uaru
-Unicorn fish
-Upside-down catfish
+Unicorn_fish
+Upside-down_catfish
 Vanjaram
-Velvet belly lanternshark
-Velvet catfish
+Velvet_belly_lanternshark
+Velvet_catfish
 Velvetfish
 Vendace
-Vermilion snapper
+Vermilion_snapper
 Vimba
 Viperfish
 Wahoo
-Walking catfish
+Walking_catfish
 Wallago
 Walleye
-Walleye pollock
+Walleye_pollock
 Walu
 Warmouth
-Warty angler
+Warty_angler
 Waryfish
 Waspfish
-Weasel shark
+Weasel_shark
 Weatherfish
 Weever
 Weeverfish
-Wels catfish
-Whale catfish
+Wels_catfish
+Whale_catfish
 Whalefish
-Whale shark
+Whale_shark
 Whiff
 Whitebait
-White croaker
+White_croaker
 Whitefish
-White marlin
-White shark
-Whitetip reef shark
+White_marlin
+White_shark
+Whitetip_reef_shark
 Whiting
 Wobbegong
 Wolf-eel
 Wolffish
 Wolf-herring
-Worm eel
+Worm_eel
 Wormfish
 Wrasse
 Wrymouth
-X-ray tetra
-Yellow-and-black triplefin
-Yellowback fusilier
-Yellowbanded perch
-Yellow bass
-Yellowedge grouper
-Yellow-edged moray
-Yellow-eye mullet
-Yellowhead jawfish
-Yellowfin croaker
-Yellowfin cutthroat trout
-Yellowfin grouper
-Yellowfin tuna
-Yellowfin pike
-Yellowfin surgeonfish
-Yellowfin tuna
-Yellow jack
-Yellowmargin triggerfish
-Yellow moray
-Yellow perch
+X-ray_tetra
+Yellow-and-black_triplefin
+Yellowback_fusilier
+Yellowbanded_perch
+Yellow_bass
+Yellowedge_grouper
+Yellow-edged_moray
+Yellow-eye_mullet
+Yellowhead_jawfish
+Yellowfin_croaker
+Yellowfin_cutthroat_trout
+Yellowfin_grouper
+Yellowfin_tuna
+Yellowfin_pike
+Yellowfin_surgeonfish
+Yellowfin_tuna
+Yellow_jack
+Yellowmargin_triggerfish
+Yellow_moray
+Yellow_perch
 Yellowtail
-Yellowtail amberjack
-Yellowtail barracuda
-Yellowtail clownfish
-Yellowtail horse mackerel
-Yellowtail kingfish
-Yellowtail snapper
-Yellow tang
-Yellow weaver
-Yellowtail catfish
+Yellowtail_amberjack
+Yellowtail_barracuda
+Yellowtail_clownfish
+Yellowtail_horse_mackerel
+Yellowtail_kingfish
+Yellowtail_snapper
+Yellow_tang
+Yellow_weaver
+Yellowtail_catfish
 Zander
-Zebra bullhead shark
-Zebra danio
+Zebra_bullhead_shark
+Zebra_danio
 Zebrafish
-Zebra lionfish
-Zebra loach
-Zebra oto
-Zebra pleco
-Zebra shark
-Zebra tilapia
-Zebra turkeyfish
+Zebra_lionfish
+Zebra_loach
+Zebra_oto
+Zebra_pleco
+Zebra_shark
+Zebra_tilapia
+Zebra_turkeyfish
 Ziege
 Zingel
