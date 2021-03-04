@@ -24,8 +24,7 @@ namespace FishFacts
 
         public MainWindow() {
             InitializeComponent();
-
-            Fish f = new Fish();
+            DataContext = new MainWindowViewModel();
         }
     }
 }

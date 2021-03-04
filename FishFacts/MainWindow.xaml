@@ -5,8 +5,43 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FishFacts"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="Fish Facts!" Height="700" Width="608.438"
+        Icon="FishIcon\fish.png">
+    <Grid Background="LightBlue">
+        <TextBlock 
+            HorizontalAlignment="Left" 
+            Margin="10,405,0,0" TextWrapping="Wrap"
+            VerticalAlignment="Top" 
+            Height="181" Width="572" 
+            Background="CornflowerBlue"
+            Text="{Binding Description, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <TextBlock 
+            HorizontalAlignment="Left" 
+            Margin="10,373,0,0" 
+            TextWrapping="Wrap"
+            VerticalAlignment="Top" 
+            Width="572" 
+            TextAlignment="Center"
+            Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}"
+            FontSize="20"/>
+
+        <Image  
+            Height="358" 
+            Margin="10,10,0,0" 
+            VerticalAlignment="Top" Width="572"
+            HorizontalAlignment="left"
+            Source="{Binding ImageLink, UpdateSourceTrigger=PropertyChanged}"
+            />
+        <Button 
+            Content="Show Me Da Fishees" 
+            FontSize="32"
+            HorizontalAlignment="Left" 
+            Margin="10,591,0,0" 
+            VerticalAlignment="Top" 
+            Width="572" 
+            Height="68"
+            Command="{Binding NewFish}"/>
+
     </Grid>
 </Window>
