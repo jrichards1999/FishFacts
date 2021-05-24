@@ -53,6 +53,10 @@ namespace FishFacts {
 
         private void OnNewFishClick() {
             Fish f = new Fish();
+            while (f.FishDesc.Contains("may refer to")) {
+                f = new Fish();
+            }
+
             Title = f.FishName;
             Description = f.FishDesc;
             ImageLink = f.ImageLink;
